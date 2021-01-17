@@ -1,0 +1,3 @@
+1  Doi tuong thuoc dien chinh sach                   2          
+2  Can bo, cong nhan vien chuc nha nuoc              1          
+3  Hoc sinh pho thong                                0          

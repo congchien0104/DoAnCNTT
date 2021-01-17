@@ -1,0 +1,20 @@
+1          Nguyen Viet    Hong   0 04/04/1981 3  
+2          Nguyen Hong    Lanh   1 15/03/1982 1  
+3          Nguyen Minh    Quang  0 10/07/1982 3  
+4          Dinh Thi       Tam    1 18/02/1982 1  
+5          Nguyen Hoai    Anh    1 21/08/1982 3  
+6          Dang Bich      Thuy   1 22/10/1982 1  
+7          Hoang Thanh    Trang  1 12/08/1982 3  
+8          Tran Cat       Dung   1 04/12/1981 3  
+9          Pham Hoai      Bong   0 11/10/1980 3  
+10         Tran Minh      Nguyet 1 07/12/1981 1  
+11         Ma Thi Hong    Xuan   1 19/10/1981 3  
+12         Le Thao        Dung   1 03/11/1982 1  
+13         Luu Phuong     Thanh  1 25/02/1982 1  
+14         Phan           Thanh  0 03/07/1981 1  
+15         Pham Thu       Thuy   1 04/12/1981 1  
+16         Dang Dinh      Tam    0 24/11/1981 1  
+17         Tong Duc       Cuong  0 25/06/1982 1  
+18         Tran Thu       Nga    1 14/09/1981 1  
+19         Tran Thi Thanh Giang  1 18/03/1982 1  
+20         Truong Thi     My     1 16/08/1982 1 
